@@ -2,3 +2,6 @@
  Boost : 비동기 처리
  MySQL Connector/C++
  Gumbo Parser : HTML 문서를 파싱
+
+예상 허들
+ 정확한 수요가 없기 때문에 눈치껏 해야함
