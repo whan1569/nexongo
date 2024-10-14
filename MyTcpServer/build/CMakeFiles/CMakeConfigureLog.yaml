@@ -24,7 +24,7 @@ events:
       The output was:
       0
       msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
-      鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:38:57
+      鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:57:40
       
       1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\3.31.0-rc1\\CompilerIdC\\CompilerIdC.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           寃쎄퀬 0媛?
           ?ㅻ쪟 0媛?
       
-      寃쎄낵 ?쒓컙: 00:00:01.10
+      寃쎄낵 ?쒓컙: 00:00:00.48
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -79,7 +79,7 @@ events:
       The output was:
       0
       msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
-      鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:38:59
+      鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:57:41
       
       1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\3.31.0-rc1\\CompilerIdCXX\\CompilerIdCXX.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           寃쎄퀬 0媛?
           ?ㅻ쪟 0媛?
       
-      寃쎄낵 ?쒓컙: 00:00:00.85
+      寃쎄낵 ?쒓컙: 00:00:00.62
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-oohc6c"
-      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-oohc6c"
+      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-0ge98n"
+      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-0ge98n"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -137,40 +137,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-oohc6c'
+        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-0ge98n'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3b81c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_2dd44.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
-        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:39:00
+        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:57:42
         
-        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oohc6c\\cmTC_3b81c.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ge98n\\cmTC_2dd44.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
         PrepareForBuild:
-          "cmTC_3b81c.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_2dd44.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
           援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
-          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oohc6c\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_3b81c.dir\\Debug\\cmTC_3b81c.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ge98n\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_2dd44.dir\\Debug\\cmTC_2dd44.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
         InitializeBuildStatus:
-          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_3b81c.dir\\Debug\\cmTC_3b81c.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_3b81c.dir\\Debug\\cmTC_3b81c.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_2dd44.dir\\Debug\\cmTC_2dd44.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_2dd44.dir\\Debug\\cmTC_2dd44.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3b81c.dir\\Debug\\\\" /Fd"cmTC_3b81c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2dd44.dir\\Debug\\\\" /Fd"cmTC_2dd44.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
           Copyright (c) Microsoft Corporation. All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3b81c.dir\\Debug\\\\" /Fd"cmTC_3b81c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2dd44.dir\\Debug\\\\" /Fd"cmTC_2dd44.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oohc6c\\Debug\\cmTC_3b81c.exe" /INCREMENTAL /ILK:"cmTC_3b81c.dir\\Debug\\cmTC_3b81c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-oohc6c/Debug/cmTC_3b81c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-oohc6c/Debug/cmTC_3b81c.lib" /MACHINE:X64  /machine:x64 cmTC_3b81c.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_3b81c.vcxproj -> C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oohc6c\\Debug\\cmTC_3b81c.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ge98n\\Debug\\cmTC_2dd44.exe" /INCREMENTAL /ILK:"cmTC_2dd44.dir\\Debug\\cmTC_2dd44.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-0ge98n/Debug/cmTC_2dd44.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-0ge98n/Debug/cmTC_2dd44.lib" /MACHINE:X64  /machine:x64 cmTC_2dd44.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_2dd44.vcxproj -> C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ge98n\\Debug\\cmTC_2dd44.exe
         FinalizeBuildStatus:
-          "cmTC_3b81c.dir\\Debug\\cmTC_3b81c.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
-          "cmTC_3b81c.dir\\Debug\\cmTC_3b81c.tlog\\cmTC_3b81c.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
-        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oohc6c\\cmTC_3b81c.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+          "cmTC_2dd44.dir\\Debug\\cmTC_2dd44.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_2dd44.dir\\Debug\\cmTC_2dd44.tlog\\cmTC_2dd44.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-0ge98n\\cmTC_2dd44.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
         
         鍮뚮뱶?덉뒿?덈떎.
             寃쎄퀬 0媛?
             ?ㅻ쪟 0媛?
         
-        寃쎄낵 ?쒓컙: 00:00:00.59
+        寃쎄낵 ?쒓컙: 00:00:00.43
         
       exitCode: 0
   -
@@ -210,8 +210,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x3n4b7"
-      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x3n4b7"
+      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-eh9cdh"
+      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-eh9cdh"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -221,40 +221,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x3n4b7'
+        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-eh9cdh'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_dcb44.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_741d9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
-        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:39:01
+        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:57:43
         
-        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x3n4b7\\cmTC_dcb44.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eh9cdh\\cmTC_741d9.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
         PrepareForBuild:
-          "cmTC_dcb44.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_741d9.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
           援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
-          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x3n4b7\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_dcb44.dir\\Debug\\cmTC_dcb44.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eh9cdh\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_741d9.dir\\Debug\\cmTC_741d9.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
         InitializeBuildStatus:
-          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_dcb44.dir\\Debug\\cmTC_dcb44.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_dcb44.dir\\Debug\\cmTC_dcb44.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_741d9.dir\\Debug\\cmTC_741d9.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_741d9.dir\\Debug\\cmTC_741d9.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_dcb44.dir\\Debug\\\\" /Fd"cmTC_dcb44.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_741d9.dir\\Debug\\\\" /Fd"cmTC_741d9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
           Copyright (c) Microsoft Corporation. All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_dcb44.dir\\Debug\\\\" /Fd"cmTC_dcb44.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_741d9.dir\\Debug\\\\" /Fd"cmTC_741d9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.31\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x3n4b7\\Debug\\cmTC_dcb44.exe" /INCREMENTAL /ILK:"cmTC_dcb44.dir\\Debug\\cmTC_dcb44.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x3n4b7/Debug/cmTC_dcb44.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x3n4b7/Debug/cmTC_dcb44.lib" /MACHINE:X64  /machine:x64 cmTC_dcb44.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_dcb44.vcxproj -> C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x3n4b7\\Debug\\cmTC_dcb44.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eh9cdh\\Debug\\cmTC_741d9.exe" /INCREMENTAL /ILK:"cmTC_741d9.dir\\Debug\\cmTC_741d9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-eh9cdh/Debug/cmTC_741d9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-eh9cdh/Debug/cmTC_741d9.lib" /MACHINE:X64  /machine:x64 cmTC_741d9.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_741d9.vcxproj -> C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eh9cdh\\Debug\\cmTC_741d9.exe
         FinalizeBuildStatus:
-          "cmTC_dcb44.dir\\Debug\\cmTC_dcb44.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
-          "cmTC_dcb44.dir\\Debug\\cmTC_dcb44.tlog\\cmTC_dcb44.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
-        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x3n4b7\\cmTC_dcb44.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
+          "cmTC_741d9.dir\\Debug\\cmTC_741d9.tlog\\unsuccessfulbuild" ?뚯씪????젣?섍퀬 ?덉뒿?덈떎.
+          "cmTC_741d9.dir\\Debug\\cmTC_741d9.tlog\\cmTC_741d9.lastbuildstate"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-eh9cdh\\cmTC_741d9.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??.
         
         鍮뚮뱶?덉뒿?덈떎.
             寃쎄퀬 0媛?
             ?ㅻ쪟 0媛?
         
-        寃쎄낵 ?쒓컙: 00:00:00.58
+        寃쎄낵 ?쒓컙: 00:00:00.53
         
       exitCode: 0
   -
@@ -285,10 +285,6 @@ events:
       Running the CXX compiler's linker: "C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.41.34120/bin/HostX64/x64/link.exe" "-v"
       Microsoft (R) Incremental Linker Version 14.41.34123.0
       Copyright (C) Microsoft Corporation.  All rights reserved.
-...
-
----
-events:
   -
     kind: "try_compile-v1"
     backtrace:
@@ -301,8 +297,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-o5ntao"
-      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-o5ntao"
+      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-rbd4aa"
+      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-rbd4aa"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -311,40 +307,40 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-o5ntao'
+        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-rbd4aa'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_db943.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8e8d4.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
-        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:39:33
+        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:57:44
         
-        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\cmTC_db943.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\cmTC_8e8d4.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
         PrepareForBuild:
-          "cmTC_db943.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_8e8d4.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
           援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
-          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_db943.dir\\Debug\\cmTC_db943.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_8e8d4.dir\\Debug\\cmTC_8e8d4.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
         InitializeBuildStatus:
-          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_db943.dir\\Debug\\cmTC_db943.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_db943.dir\\Debug\\cmTC_db943.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_8e8d4.dir\\Debug\\cmTC_8e8d4.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_8e8d4.dir\\Debug\\cmTC_8e8d4.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_db943.dir\\Debug\\\\" /Fd"cmTC_db943.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\src.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8e8d4.dir\\Debug\\\\" /Fd"cmTC_8e8d4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\src.c"
           Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
           Copyright (c) Microsoft Corporation. All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_db943.dir\\Debug\\\\" /Fd"cmTC_db943.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8e8d4.dir\\Debug\\\\" /Fd"cmTC_8e8d4.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\src.c"
           src.c
-        C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\src.c(1,10): error C1083: ?ы븿 ?뚯씪???????놁뒿?덈떎. 'pthread.h': No such file or directory [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\cmTC_db943.vcxproj]
-        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\cmTC_db943.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
+        C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\src.c(1,10): error C1083: ?ы븿 ?뚯씪???????놁뒿?덈떎. 'pthread.h': No such file or directory [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\cmTC_8e8d4.vcxproj]
+        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\cmTC_8e8d4.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
         
         鍮뚮뱶?섏? 紐삵뻽?듬땲??
         
-        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\cmTC_db943.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
+        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\cmTC_8e8d4.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
         (ClCompile ?\xc2\x80?? -> 
-          C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\src.c(1,10): error C1083: ?ы븿 ?뚯씪???????놁뒿?덈떎. 'pthread.h': No such file or directory [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o5ntao\\cmTC_db943.vcxproj]
+          C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\src.c(1,10): error C1083: ?ы븿 ?뚯씪???????놁뒿?덈떎. 'pthread.h': No such file or directory [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-rbd4aa\\cmTC_8e8d4.vcxproj]
         
             寃쎄퀬 0媛?
             ?ㅻ쪟 1媛?
         
-        寃쎄낵 ?쒓컙: 00:00:00.37
+        寃쎄낵 ?쒓컙: 00:00:00.27
         
       exitCode: 1
   -
@@ -358,8 +354,8 @@ events:
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-qjmpzw"
-      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-qjmpzw"
+      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x5ryrr"
+      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x5ryrr"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -368,42 +364,42 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-qjmpzw'
+        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x5ryrr'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5ed76.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_032ca.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
-        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:39:34
+        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:57:45
         
-        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjmpzw\\cmTC_5ed76.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x5ryrr\\cmTC_032ca.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
         PrepareForBuild:
-          "cmTC_5ed76.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_032ca.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
           援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
-          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjmpzw\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_5ed76.dir\\Debug\\cmTC_5ed76.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x5ryrr\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_032ca.dir\\Debug\\cmTC_032ca.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
         InitializeBuildStatus:
-          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_5ed76.dir\\Debug\\cmTC_5ed76.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_5ed76.dir\\Debug\\cmTC_5ed76.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_032ca.dir\\Debug\\cmTC_032ca.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_032ca.dir\\Debug\\cmTC_032ca.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5ed76.dir\\Debug\\\\" /Fd"cmTC_5ed76.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjmpzw\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_032ca.dir\\Debug\\\\" /Fd"cmTC_032ca.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x5ryrr\\CheckFunctionExists.c"
           Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
           Copyright (c) Microsoft Corporation. All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5ed76.dir\\Debug\\\\" /Fd"cmTC_5ed76.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjmpzw\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_032ca.dir\\Debug\\\\" /Fd"cmTC_032ca.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x5ryrr\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjmpzw\\Debug\\cmTC_5ed76.exe" /INCREMENTAL /ILK:"cmTC_5ed76.dir\\Debug\\cmTC_5ed76.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-qjmpzw/Debug/cmTC_5ed76.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-qjmpzw/Debug/cmTC_5ed76.lib" /MACHINE:X64  /machine:x64 cmTC_5ed76.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: 'pthreads.lib' ?뚯씪???????놁뒿?덈떎. [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjmpzw\\cmTC_5ed76.vcxproj]
-        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjmpzw\\cmTC_5ed76.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x5ryrr\\Debug\\cmTC_032ca.exe" /INCREMENTAL /ILK:"cmTC_032ca.dir\\Debug\\cmTC_032ca.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x5ryrr/Debug/cmTC_032ca.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-x5ryrr/Debug/cmTC_032ca.lib" /MACHINE:X64  /machine:x64 cmTC_032ca.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 'pthreads.lib' ?뚯씪???????놁뒿?덈떎. [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x5ryrr\\cmTC_032ca.vcxproj]
+        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x5ryrr\\cmTC_032ca.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
         
         鍮뚮뱶?섏? 紐삵뻽?듬땲??
         
-        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjmpzw\\cmTC_5ed76.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
+        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x5ryrr\\cmTC_032ca.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
         (Link ?\xc2\x80?? -> 
-          LINK : fatal error LNK1104: 'pthreads.lib' ?뚯씪???????놁뒿?덈떎. [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-qjmpzw\\cmTC_5ed76.vcxproj]
+          LINK : fatal error LNK1104: 'pthreads.lib' ?뚯씪???????놁뒿?덈떎. [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-x5ryrr\\cmTC_032ca.vcxproj]
         
             寃쎄퀬 0媛?
             ?ㅻ쪟 1媛?
         
-        寃쎄낵 ?쒓컙: 00:00:00.59
+        寃쎄낵 ?쒓컙: 00:00:00.39
         
       exitCode: 1
   -
@@ -417,8 +413,8 @@ events:
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-ak8fuv"
-      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-ak8fuv"
+      source: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-xw0jgt"
+      binary: "C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-xw0jgt"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -427,42 +423,42 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-ak8fuv'
+        Change Dir: 'C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-xw0jgt'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_e88ca.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_d9482.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         msbuild 踰꾩쟾 17.11.9+a69bbaaf5(.NET Framework??
-        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:39:35
+        鍮뚮뱶 ?쒖옉: 2024-10-14 ?ㅽ썑 4:57:45
         
-        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak8fuv\\cmTC_e88ca.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
+        1 ?몃뱶??"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xw0jgt\\cmTC_d9482.vcxproj" ?꾨줈?앺듃(湲곕낯 ?\xc2\x80???낅땲??
         PrepareForBuild:
-          "cmTC_e88ca.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_d9482.dir\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
           援ъ“??異쒕젰???ъ슜?????덉뒿?덈떎. 而댄뙆?쇰윭 吏꾨떒???쒖떇?\xc2\x80 ?ㅻ쪟 怨꾩링 援ъ“瑜?諛섏쁺?⑸땲?? ?먯꽭???댁슜?\xc2\x80 https://aka.ms/cpp/structured-output??李몄“?섏꽭??
-          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak8fuv\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_e88ca.dir\\Debug\\cmTC_e88ca.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xw0jgt\\Debug\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_d9482.dir\\Debug\\cmTC_d9482.tlog\\" ?붾젆?곕━瑜?留뚮뱾怨??덉뒿?덈떎.
         InitializeBuildStatus:
-          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_e88ca.dir\\Debug\\cmTC_e88ca.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
-          "cmTC_e88ca.dir\\Debug\\cmTC_e88ca.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
+          "AlwaysCreate"??媛\xc2\x80) 吏\xc2\x80?뺣릺?덇린 ?뚮Ц??"cmTC_d9482.dir\\Debug\\cmTC_d9482.tlog\\unsuccessfulbuild"??瑜? 留뚮뱾怨??덉뒿?덈떎.
+          "cmTC_d9482.dir\\Debug\\cmTC_d9482.tlog\\unsuccessfulbuild"???곌껐(touching)?섍퀬 ?덉뒿?덈떎.
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e88ca.dir\\Debug\\\\" /Fd"cmTC_e88ca.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak8fuv\\CheckFunctionExists.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d9482.dir\\Debug\\\\" /Fd"cmTC_d9482.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xw0jgt\\CheckFunctionExists.c"
           Microsoft (R) C/C++ 理쒖쟻??而댄뙆?쇰윭 踰꾩쟾 19.41.34123(x64)
           Copyright (c) Microsoft Corporation. All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e88ca.dir\\Debug\\\\" /Fd"cmTC_e88ca.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak8fuv\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d9482.dir\\Debug\\\\" /Fd"cmTC_d9482.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xw0jgt\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak8fuv\\Debug\\cmTC_e88ca.exe" /INCREMENTAL /ILK:"cmTC_e88ca.dir\\Debug\\cmTC_e88ca.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-ak8fuv/Debug/cmTC_e88ca.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-ak8fuv/Debug/cmTC_e88ca.lib" /MACHINE:X64  /machine:x64 cmTC_e88ca.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: 'pthread.lib' ?뚯씪???????놁뒿?덈떎. [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak8fuv\\cmTC_e88ca.vcxproj]
-        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak8fuv\\cmTC_e88ca.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xw0jgt\\Debug\\cmTC_d9482.exe" /INCREMENTAL /ILK:"cmTC_d9482.dir\\Debug\\cmTC_d9482.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-xw0jgt/Debug/cmTC_d9482.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/CMakeScratch/TryCompile-xw0jgt/Debug/cmTC_d9482.lib" /MACHINE:X64  /machine:x64 cmTC_d9482.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: 'pthread.lib' ?뚯씪???????놁뒿?덈떎. [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xw0jgt\\cmTC_d9482.vcxproj]
+        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xw0jgt\\cmTC_d9482.vcxproj" ?꾨줈?앺듃瑜?鍮뚮뱶?덉뒿?덈떎(湲곕낯 ?\xc2\x80??. - ?ㅽ뙣
         
         鍮뚮뱶?섏? 紐삵뻽?듬땲??
         
-        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak8fuv\\cmTC_e88ca.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
+        "C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xw0jgt\\cmTC_d9482.vcxproj"(湲곕낯 ?\xc2\x80??(1)->
         (Link ?\xc2\x80?? -> 
-          LINK : fatal error LNK1104: 'pthread.lib' ?뚯씪???????놁뒿?덈떎. [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ak8fuv\\cmTC_e88ca.vcxproj]
+          LINK : fatal error LNK1104: 'pthread.lib' ?뚯씪???????놁뒿?덈떎. [C:\\Users\\USER\\Desktop\\nexongo\\MyTcpServer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-xw0jgt\\cmTC_d9482.vcxproj]
         
             寃쎄퀬 0媛?
             ?ㅻ쪟 1媛?
         
-        寃쎄낵 ?쒓컙: 00:00:00.57
+        寃쎄낵 ?쒓컙: 00:00:00.37
         
       exitCode: 1
 ...

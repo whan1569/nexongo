@@ -8,8 +8,8 @@ int main() {
         boost::asio::io_context io_context;
 
         // 서버 소켓을 생성하고 바인딩합니다.
-        tcp::acceptor acceptor(io_context, tcp::endpoint(tcp::v4(), 12345));
-        std::cout << "Server is listening on port 12345..." << std::endl;
+        tcp::acceptor acceptor(io_context, tcp::endpoint(tcp::v4(), 4321));
+        std::cout << "Server is listening on port 4321..." << std::endl;
 
         while (true) {
             // 클라이언트 연결을 수신 대기합니다.
