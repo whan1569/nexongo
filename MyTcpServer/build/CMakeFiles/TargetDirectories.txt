@@ -1,0 +1,4 @@
+C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/server.dir
+C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/client.dir
+C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/USER/Desktop/nexongo/MyTcpServer/build/CMakeFiles/ZERO_CHECK.dir
