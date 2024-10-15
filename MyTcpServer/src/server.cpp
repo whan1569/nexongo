@@ -2,6 +2,7 @@
 #include <iostream>
 #include <memory>
 #include <set>
+#include <mutex>  // mutex 추가
 
 using boost::asio::ip::tcp;
 
@@ -49,9 +50,15 @@ private:
     }
 
     void broadcast(const std::string& message) {
-        for (auto& session : sessions_) {
-            if (session != shared_from_this()) {
+        // mutex를 사용하여 thread-safe하게 세션에 접근
+        std::lock_guard<std::mutex> lock(mutex_);
+        for (auto it = sessions_.begin(); it != sessions_.end(); ) {
+            auto session = *it;
+            if (session && session != shared_from_this()) {
                 session->deliver(message);
+                ++it; // 다음 iterator로 이동
+            } else {
+                it = sessions_.erase(it); // 무효화된 세션 제거
             }
         }
     }
@@ -60,7 +67,11 @@ private:
     std::set<std::shared_ptr<ChatSession>>& sessions_;
     enum { max_length = 1024 };
     char data_[max_length];
+    static std::mutex mutex_; // mutex 선언
 };
+
+// mutex 정의
+std::mutex ChatSession::mutex_;
 
 class ChatServer {
 public:
