@@ -12,20 +12,31 @@ int main() {
 
         boost::asio::connect(socket, endpoints);
 
-        // 수신할 데이터 버퍼
-        char reply[1024];  // 수신할 데이터를 저장할 버퍼
+        std::thread receive_thread([&]() {
+            char reply[1024];  // 수신할 데이터를 저장할 버퍼
+            for (;;) {
+                boost::system::error_code error;
+                size_t len = socket.read_some(boost::asio::buffer(reply), error);
 
-        // 소켓을 비동기로 읽기
-        socket.async_read_some(boost::asio::buffer(reply),
-            [&socket, reply](const boost::system::error_code& error, std::size_t bytes_transferred) {
-                if (!error) {
-                    std::cout << "Reply: " << std::string(reply, bytes_transferred) << std::endl;
+                if (error == boost::asio::error::eof) {
+                    break; // 연결 종료
+                } else if (error) {
+                    throw boost::system::system_error(error); // 다른 에러
                 }
-            });
 
-        io_service.run();  // 비동기 작업 실행
+                std::cout << "Reply: " << std::string(reply, len) << std::endl;
+            }
+        });
+
+        std::string message;
+        while (std::getline(std::cin, message)) {
+            boost::asio::write(socket, boost::asio::buffer(message));
+        }
+
+        receive_thread.join();
     } catch (std::exception& e) {
         std::cerr << "Exception: " << e.what() << "\n";
     }
+
     return 0;
 }
