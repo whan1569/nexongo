@@ -2,7 +2,7 @@
 #include <iostream>
 #include <memory>
 #include <set>
-#include <mutex>  // mutex 추가
+#include <mutex>
 
 using boost::asio::ip::tcp;
 
@@ -33,6 +33,10 @@ public:
             });
     }
 
+    void set_id(const std::string& id) {
+        id_ = id;
+    }
+
 private:
     void do_read() {
         auto self(shared_from_this());
@@ -40,8 +44,14 @@ private:
             [this, self](boost::system::error_code ec, std::size_t length) {
                 if (!ec) {
                     std::string message(data_, length);
-                    std::cout << "Received: " << message << std::endl;
-                    broadcast(message);  // 다른 클라이언트들에게 메시지 전달
+                    if (id_.empty()) {
+                        // 아이디 설정
+                        set_id(message);
+                        std::cout << "Client ID set: " << id_ << std::endl;
+                    } else {
+                        std::cout << "Received: " << message << std::endl;
+                        broadcast(id_ + ": " + message);  // 아이디와 함께 메시지 브로드캐스팅
+                    }
                     do_read();
                 } else {
                     stop();  // 연결이 끊어졌을 때 처리
@@ -50,7 +60,6 @@ private:
     }
 
     void broadcast(const std::string& message) {
-        // mutex를 사용하여 thread-safe하게 세션에 접근
         std::lock_guard<std::mutex> lock(mutex_);
         for (auto it = sessions_.begin(); it != sessions_.end(); ) {
             auto session = *it;
@@ -65,9 +74,10 @@ private:
 
     tcp::socket socket_;
     std::set<std::shared_ptr<ChatSession>>& sessions_;
+    std::string id_;  // 클라이언트 아이디 저장
     enum { max_length = 1024 };
     char data_[max_length];
-    static std::mutex mutex_; // mutex 선언
+    static std::mutex mutex_;
 };
 
 // mutex 정의

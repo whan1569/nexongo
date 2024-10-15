@@ -1,5 +1,6 @@
 #include <iostream>
 #include <boost/asio.hpp>
+#include <thread>
 
 using boost::asio::ip::tcp;
 
@@ -11,6 +12,14 @@ int main() {
         tcp::resolver::results_type endpoints = resolver.resolve("127.0.0.1", "4321");
 
         boost::asio::connect(socket, endpoints);
+
+        // 클라이언트 아이디 입력
+        std::string client_id;
+        std::cout << "Enter your ID: ";
+        std::getline(std::cin, client_id);
+        
+        // 아이디 전송
+        boost::asio::write(socket, boost::asio::buffer(client_id + "\n"));
 
         std::thread receive_thread([&]() {
             char reply[1024];  // 수신할 데이터를 저장할 버퍼
@@ -30,7 +39,7 @@ int main() {
 
         std::string message;
         while (std::getline(std::cin, message)) {
-            boost::asio::write(socket, boost::asio::buffer(message));
+            boost::asio::write(socket, boost::asio::buffer(client_id + ": " + message + "\n")); // 아이디 포함
         }
 
         receive_thread.join();
