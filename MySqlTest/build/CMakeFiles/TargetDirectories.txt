@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/nexongo/MySqlTest/build/CMakeFiles/mysql_example.dir
+C:/Users/USER/Desktop/nexongo/MySqlTest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/USER/Desktop/nexongo/MySqlTest/build/CMakeFiles/ZERO_CHECK.dir

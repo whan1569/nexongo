@@ -1,0 +1,10 @@
+^C:\USERS\USER\DESKTOP\NEXONGO\MYSQLTEST\BUILD\CMAKEFILES\57174856408DD63EA1A96854ED4DB2A9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/USER/Desktop/nexongo/MySqlTest -BC:/Users/USER/Desktop/nexongo/MySqlTest/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/USER/Desktop/nexongo/MySqlTest/build/MySQL_CPP_Example.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
