@@ -1,4 +1,5 @@
 mysql 연동시에 에러발생
     -branch를 내서 해결하려는데 Bad allocation 을 해결하면 SQL error: Unable to connect to 贍O*␦:3306 가 나오고 계속 에러 루프가남
 접근방식 전략
-    -새로운 cpp로 mysql을 연동후 본 server.cpp에 업로드
+    -새로운 cpp로 mysql을 연동후 본 server.cpp에 업로드(이거 왜안되는거야 ;;)
+    -c#으로 해결(새롭게 해보고싶었는데)

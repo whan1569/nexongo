@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\nexongo\\mysqlte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C78B76-F664-4C5A-98A1-94B8CD9F2124}|mysqlte\\mysqlte.csproj|c:\\users\\user\\desktop\\nexongo\\mysqlte\\mysqlte\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97C78B76-F664-4C5A-98A1-94B8CD9F2124}|mysqlte\\mysqlte.csproj|solutionrelative:mysqlte\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC03C11F-A10D-4CC9-9FC4-83B342CEBFC1}|ChatServer.cs\\ChatServer.csproj|c:\\users\\user\\desktop\\nexongo\\mysqlte\\chatserver.cs\\chatserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC03C11F-A10D-4CC9-9FC4-83B342CEBFC1}|ChatServer.cs\\ChatServer.csproj|solutionrelative:chatserver.cs\\chatserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC03C11F-A10D-4CC9-9FC4-83B342CEBFC1}|ChatServer.cs\\ChatServer.csproj|c:\\users\\user\\desktop\\nexongo\\mysqlte\\chatserver.cs\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC03C11F-A10D-4CC9-9FC4-83B342CEBFC1}|ChatServer.cs\\ChatServer.csproj|solutionrelative:chatserver.cs\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97C78B76-F664-4C5A-98A1-94B8CD9F2124}|mysqlte\\ChatClient.csproj|c:\\users\\user\\desktop\\nexongo\\mysqlte\\mysqlte\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{97C78B76-F664-4C5A-98A1-94B8CD9F2124}|mysqlte\\ChatClient.csproj|solutionrelative:mysqlte\\chatclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatServer.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\nexongo\\mysqlte\\ChatServer.cs\\ChatServer.csproj",
+              "RelativeDocumentMoniker": "ChatServer.cs\\ChatServer.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\nexongo\\mysqlte\\ChatServer.cs\\ChatServer.csproj",
+              "RelativeToolTip": "ChatServer.cs\\ChatServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T05:48:23.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\nexongo\\mysqlte\\ChatServer.cs\\ChatServer.cs",
+              "RelativeDocumentMoniker": "ChatServer.cs\\ChatServer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\nexongo\\mysqlte\\ChatServer.cs\\ChatServer.cs",
+              "RelativeToolTip": "ChatServer.cs\\ChatServer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:43:53.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatClient",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\nexongo\\mysqlte\\mysqlte\\ChatClient.csproj",
+              "RelativeDocumentMoniker": "mysqlte\\ChatClient.csproj",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\nexongo\\mysqlte\\mysqlte\\ChatClient.csproj",
+              "RelativeToolTip": "mysqlte\\ChatClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T05:42:06.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\nexongo\\mysqlte\\mysqlte\\ChatClient.cs",
+              "RelativeDocumentMoniker": "mysqlte\\ChatClient.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\nexongo\\mysqlte\\mysqlte\\ChatClient.cs",
+              "RelativeToolTip": "mysqlte\\ChatClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:37:56.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

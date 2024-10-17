@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\bin\Debug\net8.0\ChatServer.cs.exe
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\bin\Debug\net8.0\ChatServer.cs.deps.json
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\bin\Debug\net8.0\ChatServer.cs.runtimeconfig.json
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\bin\Debug\net8.0\ChatServer.cs.dll
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\bin\Debug\net8.0\ChatServer.cs.pdb
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\ChatServer.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\ChatServer.cs.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\ChatServer.cs.AssemblyInfo.cs
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\ChatServer.cs.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\ChatServer.cs.sourcelink.json
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\ChatServer.cs.dll
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\refint\ChatServer.cs.dll
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\ChatServer.cs.pdb
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\ChatServer.cs.genruntimeconfig.cache
+C:\Users\USER\Desktop\nexongo\mysqlte\ChatServer.cs\obj\Debug\net8.0\ref\ChatServer.cs.dll
